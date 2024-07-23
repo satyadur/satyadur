@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://satyadur.github.io/portfilio/](https://satyadur.github.io/portfilio/)
 
-- 💬 Ask me about **Java, React, SQL, JavaScript**
+- 💬 Ask me about **Java, React, SQL, JavaScript, Spring, SpringBoot, Spring MVC**
 
 - 📫 How to reach me **satyakudupudi8500@gmail.com**
 
