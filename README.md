@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@satya80084" target="blank"><img src="https://img.shields.io/twitter/follow/@satya80084?logo=twitter&style=for-the-badge" alt="@satya80084" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://satyadur.github.io/portfilio/](https://satyadur.github.io/portfilio/)
 
